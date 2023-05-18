@@ -1,5 +1,7 @@
 
 const greet = (name = "World") => {
-  return `Hello ${name}!`;
+  return `Hello ${name}!, How are you`;
 }
+
+var name = "sean"
 
